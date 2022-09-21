@@ -13,7 +13,6 @@ I'm a Frontend Developer based in Hargeisa, Somaliland. I Spend most of time des
 - 🤔 I’m looking for help with backend sides.
 - 📫 How to reach me: bebsi7575@gmail.com
 
-#### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
